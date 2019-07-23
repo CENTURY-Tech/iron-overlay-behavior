@@ -1,0 +1,11 @@
+{
+  "name": "iron-overlay-behavior",
+  "version": "1.10.5",
+  "dependencies": {
+    "polymer": "github:CENTURY-Tech/polymer#v1.12.1",
+    "iron-a11y-keys-behavior": "github:CENTURY-Tech/iron-a11y-keys-behavior#v1.1.10",
+    "iron-fit-behavior": "github:CENTURY-Tech/iron-fit-behavior#v1.2.8",
+    "iron-resizable-behavior": "github:CENTURY-Tech/iron-resizable-behavior#v1.0.7"
+  },
+  "private": true
+}
